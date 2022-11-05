@@ -1,6 +1,6 @@
 .place__title {
     
-    margin: 0px;  
+    margin: 0px;
     font-family: 'Inter', 'Arial', 'sans-serif';
     font-style: normal;
     font-weight: 900;
@@ -8,7 +8,7 @@
     line-height: 76px;
         /* or 106% */
          
-    color: #FFFFFF;  
+    color: #FFFFFF;
         
     }
 
@@ -21,7 +21,7 @@
             font-weight: 900;
             font-size: 42px;
             line-height: 46px;
-            color: #FFFFFF;  
+            color: #FFFFFF;
         }
     }
 
@@ -34,6 +34,6 @@
             font-weight: 900;
             font-size: 32px;
             line-height: 35px;
-            color: #FFFFFF;  
+            color: #FFFFFF;
         }
     }
