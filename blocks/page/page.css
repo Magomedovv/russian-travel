@@ -1,0 +1,38 @@
+.page {
+position: relative;
+min-width: 1280px;
+height: 100%;
+background-color: #2A2C2F;
+margin: 0 auto;
+
+
+}
+    
+@media screen and (max-width: 1120px){
+    .page {
+    max-width: 1024px;
+    
+    box-sizing: border-box;
+}
+    
+}
+
+@media screen and (max-width: 850px){
+    .page {
+    max-width: 768px;
+    
+    box-sizing: border-box;
+}
+    
+}
+
+@media screen and (max-width: 420px){
+    .page {
+    max-width: 320px;
+    
+    box-sizing: border-box;
+   
+    
+}
+    
+}

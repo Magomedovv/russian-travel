@@ -1,0 +1,30 @@
+.place {
+    width: 984px;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 80px;
+    
+    }
+
+    @media screen and (max-width: 728px) {
+
+        .place {
+            width: 720px;
+            height: auto;
+            margin-left: 0px;
+            margin-top: 0px;
+            margin-bottom: 73px;
+        }
+    }
+
+    @media screen and (max-width: 320x) {
+
+        .place {
+            width: 320px;
+            height: auto;
+            margin-left: 0px;
+            margin-top: 0px;
+            margin-bottom: 50px;
+        }
+    }

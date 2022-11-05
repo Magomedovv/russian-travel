@@ -1,0 +1,19 @@
+.header__lang-link {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    
+    width: 77px;
+    list-style-type: none;
+    
+    
+    
+    
+    }
+
