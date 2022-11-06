@@ -5,7 +5,7 @@ margin: 92px auto 0px;
 }
 
 
-@media screen and (max-width: 1120px) {
+@media screen and (max-width: 1060px){
 
     .places {
         width: 928px;

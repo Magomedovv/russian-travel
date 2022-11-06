@@ -5,7 +5,7 @@ margin: 12px auto 0px;
 
 }
 
-@media screen and (max-width: 1120px){
+@media screen and (max-width: 1060px){
     .cover {
 
     width: 1024px;
