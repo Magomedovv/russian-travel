@@ -3,26 +3,22 @@
 margin-top: 0px;
 margin-left: 0px;
 margin-bottom: 0px;
-
-font-family: 'Inter', 'Arial', 'sans-serif';
 font-style: normal;
 font-weight: 900;
 font-size: 54px;
 line-height: 58px;
-/* identical to box height, or 107% */
 
 
-color: #FFFFFF;
+
+
 
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 568px){
     .intro__title {
-        font-family: 'Inter', 'Arial', 'sans-serif';
-        font-style: normal;
-        font-weight: 900;
         font-size: 32px;
         line-height: 35px;
+        width: 288px;
 
     }
 }

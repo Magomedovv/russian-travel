@@ -2,21 +2,18 @@
     margin-top: 0px;
     margin-bottom: 0px;
     text-align: right;
-   
-
-    font-family: 'Inter', 'Arial', 'sans-serif';
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
-    /* identical to box height, or 114% */
-    
-    color: #FFFFFF;  
+    text-decoration: none;
+    list-style-type: none;
+    color: #FFFFFF;
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 568px) {
     .footer__author {
         line-height: 14px;
         text-align: left;
+        margin-left: 0px;
     }
 }
