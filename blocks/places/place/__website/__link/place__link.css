@@ -1,4 +1,4 @@
-.website__link {
+.place__link {
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -8,7 +8,7 @@
     
     }
 
-    .website__link:hover {
+    .place__link:hover {
         font-weight: 400;
         font-size: 18px;
         line-height: 22px;
