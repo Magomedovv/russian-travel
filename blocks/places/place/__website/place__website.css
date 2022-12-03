@@ -1,6 +1,6 @@
 .place__website {
     
-    margin: 0px;
+    margin: 0;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -9,16 +9,16 @@
     
     }
 
-    @media screen and (max-width: 984px) {
+    /*@media screen and (max-width: 984px) {
     
         .place__website {
             
         }
-    }
+    } */
     
     @media screen and (max-width: 568px) {
     
         .place__website {
-            width: 288px;
+            width: 100%;
         }
     }

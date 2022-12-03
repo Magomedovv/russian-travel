@@ -3,31 +3,32 @@ display: flex;
 flex-direction: row;
 justify-content: space-between;
 align-items: center;
-width: 1184px;
+max-width: 1184px;
 height: 52px;
-margin-top: 28px;
-margin-left: auto;
-margin-right: auto;
-margin-bottom: 0px;
-box-sizing: border-box;
+margin: 0px 48px 0px;
+padding: 0px;
+
+box-sizing: content-box;
+border-width: 50px;
 }
 
 
 @media screen and (max-width: 1120px) {
     .header {
-        width: 928px; 
+      max-width: 928px;
     }
  }
  
- @media screen and (max-width: 884px) {
+ @media screen and (max-width: 780px) {
     .header {
-       width: 720px;
+      max-width: 720px;
+      margin: 0px 24px 0px;
     }
  }
  
- @media screen and (max-width: 468px) {
+ @media screen and (max-width: 340px) {
     .header {
-       width: 288px;
-       margin-top: 16px;
+      max-width: 288px;
+      margin: 0px 16px 0px;
     }
  }

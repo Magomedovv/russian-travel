@@ -1,15 +1,12 @@
 .footer__copyright {
-    width: auto;
-    height: 16px;
-    margin-top: 0px;
-    margin-right: 0px;
+    
+    margin: 0;
     }
 
     @media screen and (max-width: 568px) {
         .footer__copyright {
             width: 186px;
-            margin-top: 32px;
-            margin-left: 0px;
+        
             padding: 0px;
             
         }

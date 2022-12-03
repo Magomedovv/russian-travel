@@ -2,9 +2,7 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(1, 1fr);
-    gap: 40px;
-    margin-top: 48px;
-    margin-bottom: 80px;
+    
 }
 
 @media screen and (max-width: 1124px) {
@@ -25,10 +23,9 @@
 @media screen and (max-width: 568px) {
     .place__foto {
         grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(2, 1fr);
-        gap: 30px;
-        margin-top: 23px;
-        margin-bottom: 0px;
+        
+        gap: 41px;
+        margin: 0;
     }
     
 }

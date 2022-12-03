@@ -4,6 +4,9 @@
     align-items: center;
     justify-content: center;
     min-height: 1005px;
+    max-width: 984px;
+    width: 100%;
+    margin: 0px auto 0px;
     color: #fff;
     text-decoration: none;
     box-sizing: border-box;
@@ -12,21 +15,22 @@
 @media screen and (max-width: 1124px) {
     .lead__item {
         min-height: 962px;
-        min-width: 928px;
+        max-width: 928px;
     }
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 896px) {
         .lead__item {
             min-height: 862px;
-            min-width: 768px;
+            max-width: 768px;
+            
             
         }
     }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 544px) {
         .lead__item {
             min-height: 406px;
-            min-width: 320px;
+            max-width: 320px;
         }
     }
