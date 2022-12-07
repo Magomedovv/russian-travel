@@ -1,5 +1,5 @@
 .lead__image {
-    height: 615px;
+   min-height: 615px;
     width: 100%;
     max-width: 984px;
     margin: 0px;
@@ -12,25 +12,25 @@
 
 @media screen and (max-width: 1124px) {
    .lead__image {
-       height: 580px;
+       min-height: 580px;
        max-width: 928px;
        margin-top: 28px;
    }
 }
 
-@media screen and (max-width: 896px) {
+@media screen and (max-width: 984px) {
    .lead__image {
-      height: 480px;
+      min-height: 480px;
       max-width: 768px;
    }
 }
 
 /* перелом 544*/
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 744px) {
    .lead__image {
       max-width: 320px;
-      height: 200px;
+      min-height: 200px;
       margin-top: 20px;
    }
 }

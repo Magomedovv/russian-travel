@@ -11,7 +11,7 @@
     }
 
 
-    @media screen and (max-width: 568px) {
+    @media screen and (max-width: 744px) {
         .footer__links {
             display: grid;
             grid-row-gap: 32px;

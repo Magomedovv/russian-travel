@@ -21,7 +21,7 @@
         }
     }
     
-    @media screen and (max-width: 568px) {
+    @media screen and (max-width: 744px) {
         .place {
             grid-template-columns: repeat(1, 1fr);
             

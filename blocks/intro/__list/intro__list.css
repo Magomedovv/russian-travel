@@ -11,7 +11,7 @@ list-style-type: none;
 
 }
 
-@media screen and (max-width: 568px){
+@media screen and (max-width: 744px){
 
     .intro__list {
         width: 288px;

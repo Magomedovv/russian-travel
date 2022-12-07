@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    min-height: 1005px;
+    max-height: 1005px;
     max-width: 984px;
     width: 100%;
     margin: 0px auto 0px;
@@ -19,7 +19,7 @@
     }
 }
 
-@media screen and (max-width: 896px) {
+@media screen and (max-width: 984px) {
         .lead__item {
             min-height: 862px;
             max-width: 768px;
@@ -28,7 +28,7 @@
         }
     }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 744px) {
         .lead__item {
             min-height: 406px;
             max-width: 320px;
