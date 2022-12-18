@@ -2,6 +2,7 @@
 ## писание проекта: Проектная работа № 3 - адаптивная верстка.
 В проекте реализованы инструменты Грид, медиа запросы и тд.
 Ссылка на гит (https://github.com/Magomedovv/Magomedovv---russian-travel)
+Ссылка на сайт в гите (https://magomedovv.github.io/russian-travel/)
 
 Все замечания исправлены:
 
