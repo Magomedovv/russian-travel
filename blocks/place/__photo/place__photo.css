@@ -1,27 +1,26 @@
-.place__foto {
+.place__photo {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(1, 1fr);
-    
+    align-items: start;
 }
 
 @media screen and (max-width: 1124px) {
 
-    .place__foto {
+    .place__photo {
         gap: 32px; 
     }
 }
 
 @media screen and (max-width: 984px) {
 
-    .place__foto {
+    .place__photo {
         gap: 28px;
-        margin-bottom: 73px;
     }
 }
 
 @media screen and (max-width: 744px) {
-    .place__foto {
+    .place__photo {
         grid-template-columns: repeat(1, 1fr);
         
         gap: 41px;

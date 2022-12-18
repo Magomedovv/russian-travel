@@ -8,13 +8,11 @@
     margin: 0;
     padding-left: 0px;
     list-style-type: none;
-    }
+}
 
-
-    @media screen and (max-width: 744px) {
-        .footer__links {
-            display: grid;
-            grid-row-gap: 32px;
-            
-        }
+@media screen and (max-width: 744px) {
+    .footer__links {
+        display: grid;
+        grid-row-gap: 32px;
     }
+}

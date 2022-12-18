@@ -1,19 +1,13 @@
-.header__lang-link {
-    
+.header__lang {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    
+    gap: 18px;
+
     margin-right: 0px;
     margin-bottom: 0px;
     padding-left: 0px;
     padding-bottom: 0px;
-    
-    width: 77px;
-    list-style-type: none;
-    
-    
-    
-    
-    }
 
+    list-style-type: none;
+}

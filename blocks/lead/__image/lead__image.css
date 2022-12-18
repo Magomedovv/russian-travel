@@ -1,12 +1,13 @@
 .lead__image {
-   min-height: 615px;
+    /* min-height: 615px; */
     width: 100%;
     max-width: 984px;
     margin: 0px;
-    background-image: url(../../../images/lead-polka.jpg);
-    background-repeat: no-repeat;
+    padding: 0px;
+    /* background-image: url(../../../images/lead-polka.jpg); */
+    /* background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: cover; */
     
 }
 

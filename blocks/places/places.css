@@ -3,9 +3,14 @@
     font-family: 'Inter', 'Arial', 'sans-serif';
     color: #FFFFFF;
     box-sizing: border-box;
-    max-width: 986px;
+    max-width: 984px;
+    min-width: 320px;
     width: 100%;
     margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    /* grid-template-rows: repeat(5, 1fr); */
+    grid-row-gap: 80px;
 }
 
 
@@ -20,6 +25,7 @@
 
     .places {
         max-width: 720px;
+        grid-row-gap: 73px;
     }
 }
 
@@ -28,6 +34,7 @@
     .places {
         max-width: 320px;
         max-height: 100%;
+        grid-row-gap: 50px;
         
     }
 }
