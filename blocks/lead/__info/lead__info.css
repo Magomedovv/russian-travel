@@ -1,7 +1,7 @@
 .lead__info {
     margin: 0px;
     padding: 0px;
-    max-width: 984px;
+    min-width: 984px;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -11,7 +11,6 @@
 
 @media screen and (max-width: 984px) {
     .lead__info {
-      
       max-width: 768px;
     }
   }
