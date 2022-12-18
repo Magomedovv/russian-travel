@@ -1,4 +1,8 @@
 .footer__info {
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Inter", "Arial", "sans-serif";
+    color: #ffffff;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
