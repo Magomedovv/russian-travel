@@ -4,18 +4,12 @@
     max-width: 984px;
     margin: 0px;
     padding: 0px;
-    /* background-image: url(../../../images/lead-polka.jpg); */
-    /* background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover; */
-    
 }
 
 @media screen and (max-width: 1124px) {
    .lead__image {
        min-height: 580px;
        max-width: 928px;
-       margin-top: 28px;
    }
 }
 

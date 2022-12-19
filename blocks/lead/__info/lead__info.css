@@ -2,15 +2,32 @@
     margin: 0px;
     padding: 0px;
     max-width: 984px;
+    min-width: 320px;
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    box-sizing: border-box;
 }
+
+@media screen and (max-width: 1124px) {
+  .lead__info {
+      max-width: 928px;
+      margin-top: 28px;
+  }
+}
+
 
 @media screen and (max-width: 984px) {
     .lead__info {
-      max-width: 768px;
+      min-width: 768px;
     }
   }
+
+  @media screen and (max-width: 744px) {
+    .lead__info {
+       max-width: 320px;
+       margin-top: 20px;
+    }
+ }
