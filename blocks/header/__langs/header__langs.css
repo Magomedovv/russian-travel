@@ -11,13 +11,19 @@
     color: #ffffff;
 }
 
-.header__langs:active {
+/* .header__langs:hover {
     text-decoration: underline;
+    
+} */
+/* .header__langs:active {
+    text-decoration: underline; 
+} */
+.header__langs:focus {
+    text-decoration: underline; 
 }
 
-.header__langs:hover {
-    text-decoration: underline;
-}
+
+
 
 @media screen and (max-width: 320px) {
     .header__langs {
