@@ -22,7 +22,7 @@
 
 /* перелом 544*/
 
-@media screen and (max-width: 744px) {
+@media screen and (max-width: 771px) {
    .lead__image {
       max-width: 320px;
       min-height: 200px;
