@@ -14,7 +14,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang/header__lang.css);
 @import url(../blocks/header/__langs/header__langs.css);
-@import url(../blocks/header/__langs_active/header__langs_active.css);
+@import url(../blocks/header/__langs/_mod/header__langs_active.css);
 
 
 /* lead */

@@ -11,16 +11,11 @@
     color: #ffffff;
 }
 
-/* .header__langs:hover {
-    text-decoration: underline;
+.header__langs:hover {
+    opacity: 0.8;
     
-} */
-/* .header__langs:active {
-    text-decoration: underline; 
-} */
-/* .header__langs:focus {
-    text-decoration: underline; 
-} */
+}
+
 
 
 

@@ -21,7 +21,7 @@
 
 @media screen and (max-width: 984px) {
     .lead__info {
-      min-width: 768px;
+      max-width: 768px;
     }
   }
 
